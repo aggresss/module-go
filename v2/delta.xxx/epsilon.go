@@ -1,7 +1,7 @@
 package delta
 
 var (
-	version = "2.5.0"
+	version = "2.7.0"
 )
 
 func Version() string {
