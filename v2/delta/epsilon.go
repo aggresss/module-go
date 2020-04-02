@@ -1,4 +1,4 @@
-package delta.v2
+package delta
 
 var (
 	version = "2.3.0"
